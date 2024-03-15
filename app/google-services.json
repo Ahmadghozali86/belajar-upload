@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911449310755",
+    "project_id": "laporan-masyarakat-5facd",
+    "storage_bucket": "laporan-masyarakat-5facd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911449310755:android:262d17b4d26e33b4811396",
+        "android_client_info": {
+          "package_name": "com.example.laporanmasyarakat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxcyxPX_DGEuv3QRCDyhc_2S3m1f_qtKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
